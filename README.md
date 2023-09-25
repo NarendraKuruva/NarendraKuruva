@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @NarendraKuruva
-- 🌱 I’m currently learning React
 
 <!---
 NarendraKuruva/NarendraKuruva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
